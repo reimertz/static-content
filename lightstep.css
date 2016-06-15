@@ -146,7 +146,7 @@
 .blog:before {
     left: -100%;    
 }
-.blog:before {
+.blog:after {
     right: -100%;    
 }
 
