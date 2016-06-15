@@ -19,14 +19,14 @@
 
 .content-inner .header {
   min-height: 80vh;
-  margin-top: 20vh !important;
+  margin-top: 30vh !important;
   text-align: center;
   position: relative;
 }
 
 .content-inner .header h1,
 .content-inner .header p {
-    color: #05abe0;
+  color: #27d9a5;
   text-align: center;
   margin: 0 auto;
     
