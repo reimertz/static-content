@@ -24,24 +24,25 @@
   position: relative;
 }
 
-.content-inner .header h1 {
-  color: white;
+.content-inner .header h1,
+.content-inner .header p {
+    color: #05abe0;
   text-align: center;
+  margin: 0 auto;
+    
+}
+
+.content-inner .header h1 {
   font-size: 35px;
   max-width: 500px;
-  margin: 0 auto;
   line-height: 42px;
 }
 
 .content-inner .header p {
-  color: white;
-  text-align: center;
   font-size: 22px;
   max-width: 600px;
-  margin: 0 auto;
   line-height: 28px;
   margin-top: 25px;
-    
 }
 
 .content-inner .bullets {
