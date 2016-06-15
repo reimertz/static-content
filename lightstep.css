@@ -18,8 +18,10 @@
 }
 
 .content-inner .header {
+  min-height: 80vh;
   margin-top: 20vh !important;
   text-align: center;
+  position: relative;
 }
 
 .content-inner .header h1 {
@@ -82,26 +84,26 @@
 
 [class*="star-"] {
   position: absolute;
-  max-width: 150px;
+  max-width: 125px !important;
 }
 
 .star-1 {
-  top:0;
-  left:0;
+  top:-100px;
+  left:-100px;
 }
 
 .star-2 {
-  top:0;
-  right:0;
+  top: 150px;
+  left: 0;
 }
 
 .star-3 {
-  bottom:0;
-  right:0;
+  top: -100px;
+  right: -50px;
 }
 
 .star-4 {
-  bottom:0;
-  left:0;
+  top: 125px;
+  right: -25px;
 }
 
