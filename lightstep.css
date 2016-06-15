@@ -163,6 +163,8 @@
   color: #0050ff;
   margin-top: 20px;
   margin-bottom: 0;
+  position: relative;
+  margin-top: 0;
 }
 
 .perks:before,
