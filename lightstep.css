@@ -134,6 +134,13 @@
     position: relative;
 }
 
+.blog p {
+  font-weight: 500;
+  color: #27d9a5;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
 .blog:before,
 .blog:after {
     content: '';
