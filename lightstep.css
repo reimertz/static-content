@@ -60,14 +60,22 @@
 .actions {
   margin-top: 20vh;
   text-align: center;
+  opacity: 0.75;
+  transition: opacity 200ms;
+}
+
+.actions:hover {
+  opacity: 1; 
 }
 
 .actions img {
-  height: 40px;
+  margin-right: 10px;
+  height: 30px;
   vertical-align: middle;
 }
 
 .actions span {
+  font-weight: 500;
   color: white;
   text-transform: uppercase;
 }
