@@ -16,6 +16,32 @@
   margin-top: -120px;
   background: transparent;
 }
+
+.content-inner .header {
+  margin-top: 20vh;
+  text-align: center;
+}
+
+.content-inner .header h1 {
+  color: white;
+  text-align: center;
+  font-size: 35px;
+  max-width: 500px;
+  margin: 0 auto;
+  line-height: 42px;
+}
+
+.content-inner .header p {
+  color: white;
+  text-align: center;
+  font-size: 22px;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 28px;
+  margin-top: 25px;
+    
+}
+
 .content-inner .bullets {
   color: white !important;
 }
