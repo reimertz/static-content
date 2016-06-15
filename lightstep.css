@@ -126,3 +126,27 @@
   margin-top: 250px;
 }
 
+.blog {
+    margin-top: 75px;
+    text-align: center;
+    color: white;
+    background: #2b3c6a;
+    position: relative;
+}
+
+.blog:before,
+.blog:after {
+    content: '';
+    width: 100%;
+    background: #2b3c6a;
+    height: 100%;
+    top: 0;
+    position: absolute;
+}
+.blog:before {
+    left: -100%;    
+}
+.blog:before {
+    right: -100%;    
+}
+
