@@ -157,3 +157,26 @@
     right: -100%;    
 }
 
+.perks {
+  background: white;
+  font-weight: 500;
+  color: #0050ff;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.perks:before,
+.perks:after {
+  content: '';
+  width: 100%;
+  background: white;
+  height: 100%;
+  top: 0;
+  position: absolute;
+}
+.perks:before {
+  left: -100%;    
+}
+.perks:after {
+  right: -100%;    
+}
