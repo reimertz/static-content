@@ -79,3 +79,29 @@
   color: white;
   text-transform: uppercase;
 }
+
+[class*="star-"] {
+  position: absolute;
+  max-width: 150px;
+}
+
+.star-1 {
+  top:0;
+  left:0;
+}
+
+.star-2 {
+  top:0;
+  right:0;
+}
+
+.star-3 {
+  bottom:0;
+  right:0;
+}
+
+.star-4 {
+  bottom:0;
+  left:0;
+}
+
