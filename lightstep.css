@@ -56,3 +56,18 @@
   top: 0;
   background: linear-gradient(to bottom, #05abe0 0%,#0050ff 0%,#27d9a5 100%);
 }
+
+.actions {
+  margin-top: 20vh;
+  text-align: center;
+}
+
+.actions img {
+  height: 40px;
+  vertical-align: middle;
+}
+
+.actions span {
+  color: white;
+  text-transform: uppercase;
+}
