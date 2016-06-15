@@ -1,8 +1,19 @@
 #header {
-  background: transparent;
+    -webkit-transform: translate3d(0,0,0);
+    -moz-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    -o-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+    background-color: transparent;
+    height: 120px;
+}
+
+.title-desc-wrapper:first-child {
+  display: none;
 }
 
 .content-inner {
+  margin-top: -120px;
   background: transparent;
 }
 .content-inner .bullets {
