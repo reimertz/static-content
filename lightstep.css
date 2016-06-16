@@ -276,3 +276,25 @@
     left: 10%;
     border-right: none;
 }
+
+.ready {
+    margin: 40px auto;
+    text-align: center;
+    color: white;
+}
+
+.ready .title {
+    font-size: 20px;
+    font-weight: 300;
+    margin: 0;
+}
+
+.ready .sub-title {
+    margin-top: 0px;
+    font-size: 13px;
+    max-width: 330px;
+    margin: auto;
+}
+.ready .actions {
+    border-top-color: white;
+}
