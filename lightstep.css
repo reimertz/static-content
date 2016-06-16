@@ -133,6 +133,7 @@
 .quote p {
     border-left: 1px solid white;
     padding-left: 20px;
+    z-index: 1;
 }
 
 .quote:before {
