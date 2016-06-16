@@ -164,7 +164,7 @@
 .blog p {
   font-weight: 500;
   color: #27d9a5;
-  margin-top: 20px;
+  margin-top: 20px !important;
   margin-bottom: 0;
 }
 
