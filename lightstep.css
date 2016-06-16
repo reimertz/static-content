@@ -194,13 +194,11 @@
 }
 
 .perks {
-  background: white;
-  font-weight: 500;
-  color: #0050ff;
-  margin-top: 20px;
-  margin-bottom: 0;
-  position: relative;
-  margin-top: 0;
+    background: white;
+    font-weight: 500;
+    color: #0050ff;
+    position: relative;
+    padding: 50px 0;
 }
 
 .perks:before,
