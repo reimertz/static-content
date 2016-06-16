@@ -205,6 +205,7 @@
     height: 87%;
     top: 10%;
     left: 10%;
+    border-right: none;
 }
 
 .perks .box-2:after {
@@ -212,10 +213,12 @@
     height: 87%;
     top: 10%;
     left: 10%;
+    border-left: none;
 }
 .perks .box-3:after {
     width: 94%;
     height: 87%;
     top: 10%;
     left: 10%;
+    border-right: none;
 }
