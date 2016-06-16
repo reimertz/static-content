@@ -121,13 +121,18 @@
   color: white;
   font-size: 20px;
   font-weight: 400;
-  border-left: 1px solid white;
   padding-left: 20px;
   margin-top: 250px;
   position: relative;
   padding: 30px;
   background: #27d9a5;
   position: relative;
+  z-index: 1;
+}
+
+.qoute p {
+    border-left: 1px solid white;
+    padding-left: 20px;
 }
 
 .quote:before {
