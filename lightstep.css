@@ -191,6 +191,24 @@
 .perks [class*="box-"] {
     text-align: left;
 }
+.perks [class*="box-"]:before {
+    content: '';
+    position: absolute;
+    height: 2px;
+    width: 100px;
+    background: #27d9a5;
+    top: 0;
+    margin-top: 105px;
+}
+
+.perks .box-1:before,
+.perks .box-3:before {
+    left: -150px;
+}
+
+.perks .box-2:before {
+    right: -150px;
+}
 
 .perks [class*="box-"]:after {
     content: '';
