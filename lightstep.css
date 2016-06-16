@@ -134,6 +134,7 @@
     border-left: 1px solid white;
     padding-left: 20px;
     z-index: 1;
+    position: relative;
 }
 
 .quote:before {
