@@ -62,7 +62,7 @@
   content: '';
   left: 0;
   top: 0;
-  background: linear-gradient(to bottom, #05abe0 0%,#0050ff 0%,#27d9a5 100%);
+  background: linear-gradient(to bottom, #05abe0 0%,#0050ff 0%,#27d9a5 60%);
 }
 
 .actions {
