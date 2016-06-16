@@ -182,3 +182,40 @@
 .perks:after {
   right: -100%;    
 }
+
+.perks .sqs-col {
+    margin-top: 30px !important;
+    position: relative;
+}
+
+.perks [class*="box-"] {
+    text-align: left;
+}
+
+.perks [class*="box-"]:after {
+    content: '';
+    border: 2px solid #27d9a5;
+    position: absolute;
+    z-index: 10;
+    opacity: 0.2;
+}
+
+.perks .box-1:after {
+    width: 94%;
+    height: 87%;
+    top: 10%;
+    left: 10%;
+}
+
+.perks .box-2:after {
+    width: 94%;
+    height: 87%;
+    top: 10%;
+    left: 10%;
+}
+.perks .box-3:after {
+    width: 94%;
+    height: 87%;
+    top: 10%;
+    left: 10%;
+}
