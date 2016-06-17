@@ -103,6 +103,12 @@
   opacity: 1; 
 }
 
+
+.actions .button {
+  margin-right: 10px;
+  display: inline-block;
+}
+
 .actions img {
   margin-right: 10px;
   height: 30px;
@@ -350,11 +356,6 @@
     margin-top: 15px;
     padding-top: 30px;
 }
-
-.ready .actions img:nth-child(3)
-    margin-left: 10px;
-}
-
 
 .ready:after {
     position: absolute;
