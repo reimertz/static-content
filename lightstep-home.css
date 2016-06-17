@@ -6,6 +6,10 @@
   border: none !important;
 }
 
+* {
+    font-family: 'Work Sans', sans-serif !important;
+}
+
 .content-inner {
   margin-top: -120px;
   background: transparent;
