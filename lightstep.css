@@ -337,6 +337,7 @@
     text-align: center;
     color: white;
     padding-bottom: 30px;
+    position: relative;
 }
 
 .ready .title {
