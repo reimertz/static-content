@@ -336,8 +336,19 @@
     max-width: 355px;
     margin: 10px auto;
 }
+
 .ready .actions {
     border-top-color: white;
     margin-top: 15px;
     padding-top: 30px;
+}
+
+.ready .actions {
+    border-top-color: white;
+    margin-top: 15px;
+    padding-top: 30px;
+}
+
+.ready .actions img:nth-child(2) {
+    margin-left: 10px;
 }
