@@ -31,7 +31,6 @@
 .content-inner .header:after {
     content: '';
     background: url(https://raw.githubusercontent.com/reimertz/static-content/master/path.png);
-    height: 300px;
     width: 200%;
     position: absolute;
     height: 200px;
