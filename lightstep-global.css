@@ -18,3 +18,12 @@
 #footer {
     color: white !important;
 }
+
+
+@media screen and (max-width: 650px) {
+#footer {
+    text-align: center !important;
+}
+
+  
+}
