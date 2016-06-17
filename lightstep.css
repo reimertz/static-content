@@ -1,6 +1,11 @@
 * {
     font-family: 'Work Sans', sans-serif !important;
 }
+
+.site-title img {
+    max-with: 250px !important;
+}
+
 #header {
     -webkit-transform: translate3d(0,0,0);
     -moz-transform: translate3d(0,0,0);
