@@ -28,6 +28,19 @@
   position: relative;
 }
 
+.content-inner .header:after {
+    content: '';
+    background: url(https://raw.githubusercontent.com/reimertz/static-content/master/path.png);
+    height: 300px;
+    width: 200%;
+    position: absolute;
+    height: 300px;
+    background-size: contain;
+    bottom: 0;
+    left: 0;
+    margin-left: -50%;
+}
+
 .content-inner .header h1,
 .content-inner .header p {
   color: #27d9a5;
