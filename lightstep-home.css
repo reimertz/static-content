@@ -103,7 +103,7 @@
 
 .actions .button {
     opacity: 0.9;
-    transition: opacity 200ms;
+    transition: 200ms;
     margin-right: 20px;
     margin-top: 15px;
     display: inline-block;
