@@ -31,10 +31,11 @@
 }
 
 .content-inner .header {
-  min-height: 70vh;
-  margin-top: 30vh !important;
-  text-align: center;
-  position: relative;
+    min-height: 45vh;
+    margin-top: 30vh !important;
+    text-align: center;
+    position: relative;
+    padding-bottom: 20px;
 }
 
 .content-inner .header:after {
@@ -44,7 +45,7 @@
     position: absolute;
     height: 200px;
     background-size: contain;
-    bottom: 0;
+    bottom: -200px;
     left: 0;
     margin-left: -50%;
     background-repeat-y: no-repeat;
@@ -59,24 +60,23 @@
 }
 
 .content-inner .header h1 {
-  font-size: 30px;
+  font-size: 35px;
   max-width: 500px;
   line-height: 42px;
   font-weight: 300;
 }
 
 .content-inner .header p {
-  font-size: 20px;
+  font-size: 22px;
   max-width: 600px;
   line-height: 28px;
-  font-weight: 100;
   margin-top: 25px;
 }
 
 .content-inner .bullets {
   color: white !important;
   text-align: center;
-  margin-top: 20vh;
+  margin-top: 200px;
 }.ready .actions img:nth-child(3)
 
 .content-inner .bullets .actions {
