@@ -265,7 +265,7 @@
 
 }
 
-.perks [class*="box-1"] .-sub-title {
+.perks [class*="box-1"] .sub-title {
     color:#565656;
 }
 
