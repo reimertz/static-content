@@ -380,6 +380,17 @@
 }
 
 @media screen and (max-width: 650px) {
+  .content-inner {
+    padding: 20px;
+  }
+  .header h1 {
+    font-size: 30px;
+  }
+  
+  .header p  {
+    font-size: 30px;
+    margin-top: 5px;
+  }
     .reverse {
         display: flex;
         flex-direction: column-reverse;
