@@ -341,6 +341,13 @@
     position: relative;
 }
 
+.ready .title,
+.ready .sub-title,
+.ready .actions {
+    position: relative;
+    z-index: 1;
+}
+
 .ready .title {
     font-size: 20px;
     font-weight: 300;
@@ -374,4 +381,3 @@
     z-index: 0;
     top: 0;
 }
-
