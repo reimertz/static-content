@@ -226,7 +226,7 @@
 .perks {
     background: white;
     font-weight: 200;
-    color: #565656;
+    color: #0050ff;
     position: relative;
     padding: 50px 0;
 }
@@ -265,7 +265,8 @@
 
 }
 
-.perks [class*="box-"] .-sub-title {
+.perks [class*="box-6"] .-sub-title {
+    color:#565656;
 }
 
 .perks [class*="box-"]:before {
