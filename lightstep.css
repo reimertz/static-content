@@ -59,16 +59,17 @@
 }
 
 .content-inner .header h1 {
-  font-size: 35px;
+  font-size: 30px;
   max-width: 500px;
   line-height: 42px;
   font-weight: 300;
 }
 
 .content-inner .header p {
-  font-size: 22px;
+  font-size: 20px;
   max-width: 600px;
   line-height: 28px;
+  font-weight: 100;
   margin-top: 25px;
 }
 
