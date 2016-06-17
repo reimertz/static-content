@@ -368,14 +368,6 @@
     top: 0;
 }
 
-* {
-    font-family: 'Work Sans', sans-serif !important;
-}
-
-.site-title img {
-    max-width: 250px !important;
-}
-
 @media screen and (max-width: 650px) {
     .reverse {
         display: flex;
