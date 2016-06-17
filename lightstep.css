@@ -72,15 +72,18 @@
 .actions {
   margin-top: 20px;
   text-align: center;
-  opacity: 0.75;
-  transition: opacity 200ms;
   /* font-weight: 500; */
   display: inline-block;
   border-top: 2px solid #27d9a5;
   padding: 20px;
 }
 
-.actions:hover {
+.action > * {
+    opacity: 0.75;
+    transition: opacity 200ms;
+}
+
+.actions > *:hover {
   opacity: 1; 
 }
 
