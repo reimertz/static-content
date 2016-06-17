@@ -180,6 +180,7 @@
   color: #27d9a5;
   z-index: 1;
   position: relative;
+  text-transform: uppercase;
 }
 
 .blog .actions {
