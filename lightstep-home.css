@@ -384,5 +384,27 @@
         display: flex;
         flex-direction: column-reverse;
     }
+    
+    .star-1 {
+        top: -100px;
+        left: 50px;
+    }
+    
+    .star-2 {
+        top: 278px;
+        left: 12px;
+        max-width: 10% !important;
+    }
+    
+    .star-3 {
+        top: -151px;
+        right: 66px;
+    }
+    
+    .star-4 {
+        top: 351px;
+        right: 45px;
+        max-width: 8% !important;
+    }
 }
 
