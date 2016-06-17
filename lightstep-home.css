@@ -26,7 +26,7 @@
 
 .content-inner .header:after {
     content: '';
-    background: url(https://raw.githubusercontent.com/reimertz/static-content/master/path.png);
+    background: url(https://raw.githubusercontent.com/reimertz/static-content/master/path-long.png);
     width: 200%;
     position: absolute;
     height: 200px;
