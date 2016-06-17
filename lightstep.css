@@ -12,6 +12,10 @@
   display: none;
 }
 
+.no-border {
+  border: none !important;
+}
+
 .content-inner {
   margin-top: -120px;
   background: transparent;
@@ -227,6 +231,20 @@
 .perks [class*="box-"] {
     text-align: left;
 }
+
+.perks [class*="box-"] .title,
+.perks [class*="box-"] .sub-title {
+    text-align: left;
+}
+
+.perks [class*="box-"] .title {
+
+}
+
+.perks [class*="box-"] .-sub-title {
+
+}
+
 .perks [class*="box-"]:before {
     content: '';
     position: absolute;
