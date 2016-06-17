@@ -266,7 +266,7 @@
 }
 
 .perks [class*="box-"] .-sub-title {
-
+color: #565656;
 }
 
 .perks [class*="box-"]:before {
