@@ -59,7 +59,11 @@
   color: white !important;
   text-align: center;
   margin-top: 200px;
-}.ready .actions img:nth-child(3)
+}
+
+.content-inner .bullets .title {
+  text-transform: uppercase;
+}
 
 .content-inner .bullets .actions {
     border-top-color: white;
