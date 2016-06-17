@@ -321,7 +321,7 @@
 }
 
 .ready {
-    margin: 40px auto;
+    margin: 60px auto;
     text-align: center;
     color: white;
 }
@@ -333,11 +333,11 @@
 }
 
 .ready .sub-title {
-    margin-top: 0px;
-    font-size: 13px;
-    max-width: 330px;
-    margin: auto;
+    max-width: 355px;
+    margin: 10px auto;
 }
 .ready .actions {
     border-top-color: white;
+    margin-top: 15px;
+    padding-top: 30px;
 }
