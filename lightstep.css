@@ -101,6 +101,7 @@
   display: inline-block;
   border-top: 1px solid #27d9a5;
   padding: 20px;
+  text-align: left;
 }
 
 .actions .button:hover {
@@ -113,6 +114,7 @@
     margin-right: 20px;
     display: inline-block;
     text-decoration: none !important;
+    margin-left: -40px;
 }
 
 .actions img {
@@ -382,4 +384,17 @@
     content: '';
     z-index: 0;
     top: 0;
+}
+
+
+
+
+@media screen and (max-width: 650px) {
+    .reverse {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .sqs-block-code {
+        padding-left: 0 !important;
+    }
 }
