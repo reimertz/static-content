@@ -98,6 +98,7 @@
 
 .actions .button:hover {
   opacity: 1; 
+  transform: translateX(10px);
 }
 
 .actions .button {
