@@ -382,12 +382,17 @@
     padding: 20px;
   }
   .header h1 {
-    font-size: 30px;
+    font-size: 22px;
+    max-width: 300px;
+    line-height: 42px;
+    font-weight: 300;
   }
   
   .header p  {
-    font-size: 30px;
-    margin-top: 5px;
+    font-size: 16px;
+    max-width: 300px;
+    line-height: 28px;
+    margin-top: 25px;
   }
     .reverse {
         display: flex;
@@ -401,21 +406,21 @@
     }
     
     .star-2 {
-        top: 278px;
-        left: 12px;
+        top: -60px;
+        left: 278px;
         max-width: 8% !important;
     }
     
     .star-3 {
-        top: -103px;
-        right: -20px;
-        max-width: 14% !important;
+        top: -104px;
+        right: 146px;
+        max-width: 17% !important;
     }
     
     .star-4 {
-        top: 351px;
-        right: 45px;
-        max-width: 7% !important;
+        top: -54px;
+        right: 276px;
+        max-width: 8% !important;
     }
 }
 
