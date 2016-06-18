@@ -25,5 +25,9 @@
     text-align: center !important;
 }
 
+#footer input.button {
+    display: block;
+    width: 100%;
+}
   
 }
