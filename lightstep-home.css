@@ -393,6 +393,7 @@
     max-width: 300px;
     line-height: 28px;
     margin-top: 25px;
+    font-weight: 200;
   }
     .reverse {
         display: flex;
