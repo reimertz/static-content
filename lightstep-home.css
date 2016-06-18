@@ -381,14 +381,14 @@
   .content-inner {
     padding: 20px;
   }
-  .header h1 {
+  .content-inner .header h1 {
     font-size: 22px;
     max-width: 300px;
     line-height: 42px;
     font-weight: 300;
   }
   
-  .header p  {
+  .content-inner .header p  {
     font-size: 16px;
     max-width: 300px;
     line-height: 28px;
