@@ -283,7 +283,7 @@
 .perks [class*="box-"]:before {
     content: '';
     position: absolute;
-    height: 2px;
+    height: 1px;
     width: 100px;
     background: #27d9a5;
     top: 0;
@@ -309,22 +309,23 @@
 
 .perks .box-1:after {
     width: 94%;
-    height: 87%;
-    top: 10%;
-    left: 10%;
+    height: 95%;
+    top: 7%;
+    left: 20%;
 }
 
-.perks .box-2:after {
+.perks .box-1:after {
     width: 94%;
-    height: 87%;
-    top: 10%;
-    left: 10%;
+    height: 95%;
+    top: 7%;
+    left: 20%;
 }
+
 .perks .box-3:after {
     width: 94%;
-    height: 87%;
-    top: 10%;
-    left: 10%;
+    height: 99%;
+    top: 7%;
+    left: 20%;
 }
 
 .ready {
