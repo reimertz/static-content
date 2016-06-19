@@ -13,9 +13,14 @@
     max-width: 250px !important;
 }
 
+b, strong {
+    font-weight: 400;
+    color: #27d9a5;
+}
+
 .footer-wrapper a, .footer-wrapper a:visited {
     text-decoration: none;
-    color: #27d9a5;
+    color: #ffffff;
 }
 
 #footer {
