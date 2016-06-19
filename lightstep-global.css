@@ -33,7 +33,7 @@ b, strong {
     text-align: center !important;
 }
 
-#footer input.button {
+input.button {
     display: block;
     width: 100%;
 }
