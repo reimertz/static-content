@@ -406,6 +406,10 @@
     margin-top: 170px;
 }
 
+.ready .title {
+    font-weight: 400;
+}
+
 .ready .sub-title {
     font-weight: 300;
 }
