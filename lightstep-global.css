@@ -28,7 +28,7 @@ b, strong {
 }
 
 @media only screen and (max-width: 768px)
-#mobileNav .main-nav .nav-wrapper {
+.mobile-nav-open #mobileNav .main-nav .nav-wrapper {
     background-color: #27d9a5;
     border-color#ffffff;
 }
