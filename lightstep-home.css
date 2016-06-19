@@ -405,6 +405,12 @@
   .content-inner .bullets {
     margin-top: 170px;
 }
+
+.ready .sub-title {
+    font-weight: 300;
+}
+
+
     .reverse {
         display: flex;
         flex-direction: column-reverse;
