@@ -27,13 +27,18 @@ b, strong {
     color: white !important;
 }
 
+@media only screen and (max-width: 768px)
+#mobileNav .main-nav .nav-wrapper {
+    background-color: #27d9a5;
+    border-color#ffffff;
+}
 
 @media screen and (max-width: 650px) {
 #footer {
     text-align: center !important;
 }
 
-input.button {
+#footer input.button {
     display: block;
     width: 100%;
 }
