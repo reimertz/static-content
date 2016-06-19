@@ -398,6 +398,9 @@
   .content-inner .header:after {
     width:300%;
   }
+  .content-inner .header:after{
+    bottom: -230px;
+}
   
   .content-inner .bullets {
     margin-top: 170px;
