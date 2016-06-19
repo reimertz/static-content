@@ -384,7 +384,7 @@
   .content-inner .header h1 {
     font-size: 22px;
     max-width: 300px;
-    line-height: 42px;
+    line-height: 30px;
     font-weight: 400;
   }
   
@@ -393,7 +393,10 @@
     max-width: 300px;
     line-height: 28px;
     margin-top: 25px;
-    font-weight: 400;
+    font-weight: 300;
+  }
+  .content-inner .header:after {
+    width:300%;
   }
     .reverse {
         display: flex;
