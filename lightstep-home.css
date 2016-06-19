@@ -398,6 +398,10 @@
   .content-inner .header:after {
     width:300%;
   }
+  
+  .content-inner .bullets {
+    margin-top: 170px;
+}
     .reverse {
         display: flex;
         flex-direction: column-reverse;
