@@ -13,7 +13,10 @@
     max-width: 250px !important;
 }
 
-
+.footer-wrapper a, .footer-wrapper a:visited {
+    text-decoration: none;
+    color: #27d9a5;
+}
 
 #footer {
     color: white !important;
