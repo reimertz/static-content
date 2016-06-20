@@ -42,6 +42,10 @@ a, a:visited {
     text-align: center !important;
 }
 
+#linkedin {
+    vertical-align: middle;
+}
+
 #footer input.button {
     display: block;
     width: 100%;
