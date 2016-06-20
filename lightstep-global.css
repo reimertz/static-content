@@ -8,7 +8,6 @@
     height: 120px;
 }
 
-
 .site-title img {
     max-width: 250px !important;
 }
@@ -31,24 +30,13 @@ a, a:visited {
     color: white !important;
 }
 
-@media only screen and (max-width: 768px)
-.mobile-nav-open #mobileNav .main-nav .nav-wrapper {
-    background-color: #27d9a5;
-    border-color#ffffff;
-}
-
 @media screen and (max-width: 650px) {
-#footer {
-    text-align: center !important;
-}
-
-#linkedin {
-    vertical-align: middle;
-}
-
-#footer input.button {
-    display: block;
-    width: 100%;
-}
-  
+    #footer {
+        text-align: center !important;
+    }
+    
+    #footer input.button {
+        display: block;
+        width: 100%;
+    }
 }
